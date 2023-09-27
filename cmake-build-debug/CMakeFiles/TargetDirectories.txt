@@ -1,3 +1,0 @@
-C:/Course Shit/C++ Course/CPP/cmake-build-debug/CMakeFiles/CPP.dir
-C:/Course Shit/C++ Course/CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Course Shit/C++ Course/CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

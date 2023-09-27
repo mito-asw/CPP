@@ -1,0 +1,3 @@
+C:/Course Shit/C++ Course/CPP/5.Header Files and Operators/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Course Shit/C++ Course/CPP/5.Header Files and Operators/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Course Shit/C++ Course/CPP/5.Header Files and Operators/cmake-build-debug/CMakeFiles/rebuild_cache.dir
