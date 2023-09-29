@@ -1,0 +1,3 @@
+C:/Course Shit/C++ Course/CPP/6.Reference Variable and Typecasting/cmake-build-debug/CMakeFiles/6_Reference_Variable_and_Typecasting.dir
+C:/Course Shit/C++ Course/CPP/6.Reference Variable and Typecasting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Course Shit/C++ Course/CPP/6.Reference Variable and Typecasting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

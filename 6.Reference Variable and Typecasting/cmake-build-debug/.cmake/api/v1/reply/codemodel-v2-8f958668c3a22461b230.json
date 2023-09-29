@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "6_Reference_Variable_and_Typecasting",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "6_Reference_Variable_and_Typecasting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6_Reference_Variable_and_Typecasting-Debug-3f8ec5810c10c198b6a1.json",
+					"name" : "6_Reference_Variable_and_Typecasting",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Course Shit/C++ Course/CPP/6.Reference Variable and Typecasting/cmake-build-debug",
+		"source" : "C:/Course Shit/C++ Course/CPP/6.Reference Variable and Typecasting"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
