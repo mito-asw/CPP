@@ -1,0 +1,3 @@
+C:/Course Shit/C++ Course/CPP/9. For, while and Do While Loop/cmake-build-debug/CMakeFiles/9__For__while_and_Do_While_Loop.dir
+C:/Course Shit/C++ Course/CPP/9. For, while and Do While Loop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Course Shit/C++ Course/CPP/9. For, while and Do While Loop/cmake-build-debug/CMakeFiles/rebuild_cache.dir

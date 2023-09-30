@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(8__Control_Structures__If_else_and_Switch_Case_Statement)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(8__Control_Structures__If_else_and_Switch_Case_Statement main.cpp)
