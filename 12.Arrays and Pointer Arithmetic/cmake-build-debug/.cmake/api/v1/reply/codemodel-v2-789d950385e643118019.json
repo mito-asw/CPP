@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "12_Arrays_and_Pointer_Arithmetic",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "12_Arrays_and_Pointer_Arithmetic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_Arrays_and_Pointer_Arithmetic-Debug-5952ca299b71a975d067.json",
+					"name" : "12_Arrays_and_Pointer_Arithmetic",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Course Shit/C++ Course/CPP/12.Arrays and Pointer Arithmetic/cmake-build-debug",
+		"source" : "C:/Course Shit/C++ Course/CPP/12.Arrays and Pointer Arithmetic"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

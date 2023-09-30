@@ -1,0 +1,3 @@
+C:/Course Shit/C++ Course/CPP/12.Arrays and Pointer Arithmetic/cmake-build-debug/CMakeFiles/12_Arrays_and_Pointer_Arithmetic.dir
+C:/Course Shit/C++ Course/CPP/12.Arrays and Pointer Arithmetic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Course Shit/C++ Course/CPP/12.Arrays and Pointer Arithmetic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
