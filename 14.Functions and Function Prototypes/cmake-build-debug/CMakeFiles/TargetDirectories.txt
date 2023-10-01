@@ -1,0 +1,3 @@
+C:/Course Shit/C++ Course/CPP/14.Functions and Function Prototypes/cmake-build-debug/CMakeFiles/14_Functions_and_Function_Prototypes.dir
+C:/Course Shit/C++ Course/CPP/14.Functions and Function Prototypes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Course Shit/C++ Course/CPP/14.Functions and Function Prototypes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
