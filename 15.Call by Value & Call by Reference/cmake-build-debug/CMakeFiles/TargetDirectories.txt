@@ -1,0 +1,3 @@
+C:/Course Shit/C++ Course/CPP/15.Call by Value & Call by Reference/cmake-build-debug/CMakeFiles/15_Call_by_Value___Call_by_Reference.dir
+C:/Course Shit/C++ Course/CPP/15.Call by Value & Call by Reference/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Course Shit/C++ Course/CPP/15.Call by Value & Call by Reference/cmake-build-debug/CMakeFiles/rebuild_cache.dir
