@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "19_Classes__Public_and_Private_Access_Modifiers",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "19_Classes__Public_and_Private_Access_Modifiers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-19_Classes__Public_and_Private_Access_Modifiers-Debug-9fa7e12c2b88ba9ac241.json",
+					"name" : "19_Classes__Public_and_Private_Access_Modifiers",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Course Shit/C++ Course/CPP/19.Classes, Public and Private Access Modifiers/cmake-build-debug",
+		"source" : "C:/Course Shit/C++ Course/CPP/19.Classes, Public and Private Access Modifiers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

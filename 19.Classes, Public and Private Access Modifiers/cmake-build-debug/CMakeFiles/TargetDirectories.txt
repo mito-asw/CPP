@@ -1,0 +1,3 @@
+C:/Course Shit/C++ Course/CPP/19.Classes, Public and Private Access Modifiers/cmake-build-debug/CMakeFiles/19_Classes__Public_and_Private_Access_Modifiers.dir
+C:/Course Shit/C++ Course/CPP/19.Classes, Public and Private Access Modifiers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Course Shit/C++ Course/CPP/19.Classes, Public and Private Access Modifiers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

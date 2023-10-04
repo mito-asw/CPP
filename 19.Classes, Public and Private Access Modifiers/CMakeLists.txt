@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(19_Classes__Public_and_Private_Access_Modifiers)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(19_Classes__Public_and_Private_Access_Modifiers main.cpp)
