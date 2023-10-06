@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(21__Objects_Memory_Allocations_and_Arrays_in_Classes)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(21__Objects_Memory_Allocations_and_Arrays_in_Classes main.cpp)
