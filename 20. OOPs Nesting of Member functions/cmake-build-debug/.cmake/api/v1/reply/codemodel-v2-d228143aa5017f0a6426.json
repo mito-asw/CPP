@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "20__OOPs_Nesting_of_Member_functions",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "20__OOPs_Nesting_of_Member_functions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-20__OOPs_Nesting_of_Member_functions-Debug-e5502f963fe33e947e55.json",
+					"name" : "20__OOPs_Nesting_of_Member_functions",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Course Shit/C++ Course/CPP/20. OOPs Nesting of Member functions/cmake-build-debug",
+		"source" : "C:/Course Shit/C++ Course/CPP/20. OOPs Nesting of Member functions"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
